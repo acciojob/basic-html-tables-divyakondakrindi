@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table{
+                width: 300px;
+                height: 100px;
+                border-spacing: 0;
+                border: 1px solid  #190348;
+            }
+            th,td{
+                padding: 5px;
+                text-align: left;
+                border: 1px solid  #190348;
+            }
+            th{
+                background-color: antiquewhite;
+            }
